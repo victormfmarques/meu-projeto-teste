@@ -25,7 +25,7 @@ Criei a branch `featurel` para adicionar um arquivo `.html` e assim fazer um com
 ## Abertura do pull request
 
 Fiz o pull request pelo site do GitHub, mesclando a branch `featurel` com a branch `main`. 
-Poderia ter utilizado o GitHub Desktop para mesma função, mas optei por seguir a orientação propósta no desafio.
+Poderia ter utilizado o GitHub Desktop para mesma função, mas optei por seguir a orientação proposta no desafio.
 
 ## Atualização do repositório local
 
