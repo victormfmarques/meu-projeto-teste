@@ -6,7 +6,7 @@ Aluno: **Victor Manoel** 3ºInformática
 - [x] Criar um repositório chamado `meu-projeto-teste`
 - [x] Clonar o repositório e adicionar `README.md` com nome e motivo de estudo, fazer commit e push para o GitHub
 - [x] Criar uma branch chamada `featurel` e adicionar um arquivo `.html`, fazer commit e push na branch
-- [x] Abrir um pull request no GitHub para mesclar `featurel` na `main`, Após a aprovação, fazer merge
+- [x] Abrir um pull request no GitHub para mesclar `featurel` na `main`, após a aprovação, fazer merge
 - [x] Atualizar o repositório local para refletir as mudanças mescladas
 - [x] Documentar no README.md os passos feitos
 
