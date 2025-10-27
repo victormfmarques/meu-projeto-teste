@@ -1,4 +1,4 @@
-# Desafio de atividade escolar
+# DESAFIO DE ATIVIDADE ESCOLAR
 
 Aluno: **Victor Manoel** 3ºInformática
 
@@ -27,6 +27,6 @@ Criei a branch `featurel` para adicionar um arquivo `.html` e assim fazer um com
 Fiz o pull request pelo site do GitHub, mesclando a branch `featurel` com a branch `main`. 
 Poderia ter utilizado o GitHub Desktop para mesma função, mas optei por seguir a orientação propósta no desafio.
 
-## Atualização do Repositório Local
+## Atualização do repositório local
 
 Fiz a atualização do repositório local utilizando o GitHub Desktop que é um software criado pela própria Microsoft para facilitar a utilização de software de versionamento Git e o site GitHub em uma interface gráfica.
